@@ -37,21 +37,6 @@
     ?>
 	
 </body>
-<footer>
 
-        <h4>Thai Huu Dang - 
-            Vu Van Tin - 
-            Pham Nguyen Trung Truc
-        </h4>
-    </footer>
-    <style>
-     footer {
-        text-align: center;
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:60px;   /* Height of the footer */
-   background:#6cf;
-}
-    </style>
+  
 </html>
